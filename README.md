@@ -159,28 +159,28 @@ This will open a calibration window. Move the checkerboard in front of the camer
       <img style="width:100%" src="assets/cam_calibration_gif.gif">
 </div>
 
-## 🤖 Kinematics
-### 📐 Forward kinematics (Product of exponentials approach)
+### 🤖 Kinematics
+#### 📐 Forward kinematics (Product of exponentials approach)
 <div style="width: 100%; text-align: center; margin:auto;">
       <img style="width:100%" src="assets/fk.png">
 </div>
 
-### 🔄 Inverse kinematics (Analytical approach)
+#### 🔄 Inverse kinematics (Analytical approach)
 <div style="width: 100%; text-align: center; margin:auto;">
       <img style="width:100%" src="assets/ik.png">
 </div>
 
-## 🧱 Block detection
+### 🧱 Block detection
 <div style="width: 100%; text-align: center; margin:auto;">
       <img style="width:100%" src="assets/block_detection.png">
 </div>
 
-## 🖱️ Click to Grab/Drop (via GUI)
+### 🖱️ Click to Grab/Drop (via GUI)
 <div style="width: 100%; text-align: center; margin:auto;">
       <img style="width:100%" src="assets/grab_drop_gif.gif">
 </div>
 
-## 📦 Automatic Sorting of the blocks (based on size)
+### 📦 Automatic Sorting of the blocks (based on size)
 <div style="width: 100%; text-align: center; margin:auto;">
       <img style="width:100%" src="assets/block_sorting_gif.gif">
 </div>
