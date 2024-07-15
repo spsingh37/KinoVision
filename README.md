@@ -1,6 +1,6 @@
 ## 🤖 KinoVision
 - Note: This group project was completed as part of the **ROB 550: Robotic Systems Lab** course between January and March 2024. The original code is hosted on [GitLab](https://gitlab.eecs.umich.edu/armlab-s012-g1/armlab-f23.git). This GitHub version is built to demonstrate the results and allow users to smoothly follow the steps.<br>
-- Report: [Armlab](https://drive.google.com/file/d/19UP8UG3t_4UYOeVGo8vzhoAtccAKI-aY/view?usp=drive_link)
+- PDF: [Armlab report](https://drive.google.com/file/d/19UP8UG3t_4UYOeVGo8vzhoAtccAKI-aY/view?usp=drive_link)
 
 <div style="width: 100%; text-align: center; margin:auto;">
       <img style="width:100%" src="assets/cover.png">
