@@ -1,4 +1,4 @@
-## 🤖 KinoVision
+## 🤖 KinoVision: Vision-Guided Block Handling
 - Note: This group project was completed as part of the **ROB 550: Robotic Systems Lab** course between January and March 2024. The original code is hosted on [GitLab](https://gitlab.eecs.umich.edu/armlab-s012-g1/armlab-f23.git). This GitHub version is built to demonstrate the results and allow users to smoothly follow the steps.<br>
 - PDF: [Armlab report](https://drive.google.com/file/d/19UP8UG3t_4UYOeVGo8vzhoAtccAKI-aY/view?usp=drive_link)
 
